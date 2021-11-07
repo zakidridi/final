@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="str_img">Image</string>
+    <string name="str_nom">Nom</string>
+    <string name="str_phone">Telephone</string>
+    <string name="str_website">Site Web</string>
+    <string name="str_adress">Adresse</string>
+    <string name="str_about">A propos de Moi</string>
+    <string name="add">Nouveau voisin</string>
+    <string name="list">Liste des voisin</string>
+</resources>
